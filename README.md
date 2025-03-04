@@ -29,12 +29,6 @@ This project leverages Power BI and SQL to analyze banking loan data, assess ris
 - Mapped customer profiles to loan performance using DAX-driven segmentation.
 - Enhanced decision-making through time-series trend tracking and KPI benchmarking.
 
-## Repository Structure
-```
-/Banking-Loan-Analysis-Dashboard
-│-- Banking Dashboard PowerBI.pbix
-│-- README.md
-```
-
 ## Author
-
+Thanuja AV
+Aspiring Data Analyst | SQL | Python | Power BI
