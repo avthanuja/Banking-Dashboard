@@ -31,4 +31,5 @@ This project leverages Power BI and SQL to analyze banking loan data, assess ris
 
 ## Author
 Thanuja AV
+
 Aspiring Data Analyst | SQL | Python | Power BI
